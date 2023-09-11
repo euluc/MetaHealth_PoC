@@ -11,16 +11,16 @@ HoloLens2 based on a medical surgery for babies who were born with macrocephaly.
 </p>
 
 <h1> Problems </h1>
+<h3> <p> Problem 1: Multiplayer asynchronously lobby </p> </h3>
 <p>
-	<b> Problem 1: Multiplayer asynchronously lobby </b> <br>
 	The idea here was to create a multiplayer lobby where multiple HoloLenses could connect and see the same
 	asynchronously objects. The objects on the scene would be an animated doctor performing a surgery and a
 	menu to play, pause and stop the animation. The idea was that people with HoloLens would simply open the
 	same build and would connect automatically to the lobby, and all HoloLens connected to the lobby would be
 	able to start, play, pause or stop the animation, besides seeing it and hearing it sound.
 </p>
+<h3> <p> Problem 2: Holoportation </p> </h3>
 <p>
-	<b> Problem 2: Holoportation </b> <br>
 	For this, we wanted to be able to holoportate objects within a squared space defined by 4 Microsoft Azure
 	Kinect DK's cameras. All objects within the square should be able to be seen by someone with a HoloLens that
 	was in a different network. We wanted that a doctor in A with a HoloLens, that was contained in the squared
