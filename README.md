@@ -1,5 +1,4 @@
 # Proof of Concept: OneTouch's MetaHealth
-
 This is a proof of concept made for the OneTouch's Metahealth project! It consists in a AR experience for the Microsoft's
 HoloLens2 based on a medical surgery for babies who were born with macrocephaly and was made with Unity. <br>
 
